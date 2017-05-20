@@ -3,6 +3,9 @@ Edison Candle
 The Edison Candle is an example of building a production device using a
 System-on-Module (SoM) running Android Things.
 This repository contains the application software.
+
+See [app/README.MD](app/README.MD) for reasons why this fork is different.
+
 You can find the hardware schematic, layout, and bill of materials (BOM) hosted
 on [CircuitHub](https://circuithub.com/projects/androidthings/edison-candle).
 
